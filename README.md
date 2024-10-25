@@ -4,11 +4,11 @@ This project aims to build a model that can recognize emotions in speech audio u
 
 ## Features
 
-- Emotion classification from speech audio
-- Utilization of deep learning algorithms for accurate predictions
-- Data preprocessing techniques for effective model training
-- Evaluation metrics to assess model performance
-- Functionality to make predictions on new audio samples
+- Emotion classification from speech audio.
+- Utilization of deep learning algorithms for accurate predictions.
+- Data preprocessing techniques for effective model training.
+- Evaluation metrics to assess model performance.
+- Functionality to make predictions on new audio samples.
 
 ## Algorithm Used
 
@@ -16,20 +16,15 @@ This project aims to build a model that can recognize emotions in speech audio u
 
 ## Tech Stack
 
-- **Programming Language**: Python
-- **Libraries**:
-  - `pandas` for data manipulation
-  - `scikit-learn` for machine learning algorithms and evaluation metrics
+- **Python**
+- **Pandas**
+- **scikit-learn**
 
 ## Dataset
 
 The dataset used in this project is the **Disease Symptom and Patient Profile Dataset**. It includes various features related to diseases and symptoms, which are encoded and processed for model training.
 
-## Getting Started
+## Demo Video
 
-### Installing Libraries
+https://github.com/user-attachments/assets/0729b90c-fc37-497e-928e-9d0a1fe60fdb
 
-Make sure you have the required libraries installed. You can run the following command in your command line:
-
-```bash
-pip install pandas scikit-learn
